@@ -23,7 +23,7 @@ public class Main {
 
 		System.out.println("Sorted Array:" + 
 		Arrays.toString(InsertionSort.insertionSort(unsortedArray)));
-
+/*
 		System.out.println("Sorted Array:");
 		//TODO: sort the array and print out its contents
 		int[] sortedarray = BubbleSort.bubbleSort(unsortedArray);
@@ -31,7 +31,7 @@ public class Main {
 				System.out.print(i + " ");
 		}
 		System.out.println();
-		
+*/		
 	}
 
 }
